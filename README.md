@@ -7,14 +7,14 @@ A lightweight eleventy plugin to display page/post reading time in minutes. No d
 Install this package
 
 ```sh
-npm i eleventy-plugin-readingtime
+npm i @myxotod/eleventy-plugin-readingtime
 ```
 
 Add and register it inside your `.eleventy.js` config file
 
 ```js
 // .eleventy.js
-const readingtime = require("eleventy-plugin-readingtime");
+const readingtime = require("@myxotod/eleventy-plugin-readingtime");
 
 module.exports = (eleventyConfig) => {
   eleventyConfig.addPlugin(readingtime);
