@@ -1,5 +1,5 @@
 {
-  "name": "eleventy-plugin-readingtime",
+  "name": "@myxotod/eleventy-plugin-readingtime",
   "version": "1.0.0",
   "description": "A lightweight plugin to calculate the average reading time of your 11ty pages / posts",
   "main": "readingtime.js",
