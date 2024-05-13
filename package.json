@@ -1,0 +1,30 @@
+{
+  "name": "eleventy-plugin-readingtime",
+  "version": "1.0.0",
+  "description": "A lightweight plugin to calculate the average reading time of your 11ty pages / posts",
+  "main": "readingtime.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MyXoToD/eleventy-plugin-readingtime.git"
+  },
+  "keywords": [
+    "eleventy-plugin",
+    "eleventy",
+    "reading",
+    "time",
+    "11ty",
+    "count"
+  ],
+  "author": "Maximilian Boll",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MyXoToD/eleventy-plugin-readingtime/issues"
+  },
+  "homepage": "https://github.com/MyXoToD/eleventy-plugin-readingtime#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.1"
+  }
+}
