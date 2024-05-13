@@ -15,7 +15,7 @@ module.exports = (eleventyConfig, options) => {
   let totalPosts = 0;
 
   eleventyConfig.addFilter('readingtime', (post) => {
-    let html = post.content || post.templateContent || "";
+    let html = post.content || post.templateContent || post;
     let readingtime = 0;
     
     if (typeof html === 'string' && html != '') {
