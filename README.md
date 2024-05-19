@@ -2,7 +2,7 @@
 
 A lightweight [eleventy](https://11ty.dev) plugin to display page/post reading time in minutes. No dependencies.
 
-![NPM Version](https://img.shields.io/npm/v/@myxotod/eleventy-plugin-readingtime.svg) ![NPM Downloads](https://img.shields.io/npm/d18m/%40myxotod%2Feleventy-plugin-readingtime) ![npm bundle size (scoped version)](https://img.shields.io/bundlephobia/min/%40myxotod/eleventy-plugin-readingtime/1.1.2)
+![NPM Version](https://img.shields.io/npm/v/@myxotod/eleventy-plugin-readingtime.svg) ![NPM Downloads](https://img.shields.io/npm/d18m/%40myxotod%2Feleventy-plugin-readingtime) ![npm bundle size (scoped version)](https://img.shields.io/bundlephobia/min/%40myxotod/eleventy-plugin-readingtime/2.0.0)
 
 
 ## Usage
