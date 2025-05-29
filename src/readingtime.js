@@ -53,7 +53,7 @@ module.exports = class Readingtime {
     let pt = this.options.prefixText;
     if (readingtime < 1) {
       pd = true;
-      pt = '< ';
+      pt = '&lt; ';
       readingtime = 1;
     }
 
