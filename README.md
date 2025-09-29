@@ -64,4 +64,4 @@ eleventyConfig.addPlugin(readingtime, {
 
 ## License
 
-[MIT](https://github.com/MyXoToD/eleventy-plugin-readingtime/blob/main/LICENSE) @ [Maximilian Boll](https://www.makkusu.dev)
+[MIT](https://github.com/MyXoToD/eleventy-plugin-readingtime/blob/main/LICENSE) @ [Maximilian Boll](https://makkusu.dev)
